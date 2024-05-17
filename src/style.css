@@ -1,0 +1,30 @@
+.titulo{
+    color: rgba(140, 0, 255, 0.904);
+    font-family: Arial, sans-serif;
+}
+
+.imgPerf{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+
+.divSobreMI{
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+}
+
+.flexrow{
+    display: flex;
+    flex-direction: row;
+}
+
+.sobreMi{
+    border-radius: 10px;
+    background-color: rgba(236, 235, 235, 0.904);
+    padding: 20px;
+    width: 50%;
+    margin: 20px;
+}
+

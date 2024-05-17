@@ -25,6 +25,18 @@
     background-color: rgba(236, 235, 235, 0.904);
     padding: 20px;
     width: 50%;
+    height: 200px;
     margin: 20px;
 }
+    
+.colorGris{
+    background-color: rgba(236, 235, 235, 0.904);
+}
+
+.izqDiv{
+    padding: 20px;
+    width: 40%;
+    border-radius: 10px;
+}
+
 
